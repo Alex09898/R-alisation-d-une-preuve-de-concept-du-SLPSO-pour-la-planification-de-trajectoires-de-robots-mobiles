@@ -1,0 +1,2 @@
+# R-alisation-d-une-preuve-de-concept-du-SLPSO-pour-la-planification-de-trajectoires-de-robots-mobiles
+Ce projet présente une preuve de concept (PoC) sur la planification de trajectoire d’un robot mobile en environnement encombré à l’aide de l’algorithme Self-Adaptive Learning Particle Swarm Optimization (SLPSO). L’objectif est d’évaluer les performances du SLPSO et de les comparer à celles du PSO et de l’algorithme génétique (GA).
